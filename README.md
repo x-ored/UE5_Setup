@@ -36,7 +36,7 @@ Follow these steps to clone and build Unreal Engine 5.6 from source.
    
    *Note: If you don't need to compile all modules of UE5, right-click your specific project and select **Set as Startup Project**, then build that project instead.*
    
-   ![Set as Startup Project](Default.png)
+   ![Set as Startup Project](Default.PNG)
 
 ## Troubleshooting
 
