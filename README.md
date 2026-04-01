@@ -33,6 +33,10 @@ Follow these steps to clone and build Unreal Engine 5.6 from source.
 
 4. **Build the Engine**
    Open the generated solution file (`UE5.sln`) in Visual Studio. Set your configuration setup to **Development Editor** and your solution platform to **Win64**, then right-click the `UE5` target and select **Build**.
+   
+   *Note: If you don't need to compile all modules of UE5, right-click your specific project and select **Set as Startup Project**, then build that project instead.*
+   
+   ![Set as Startup Project](Default.png)
 
 ## Troubleshooting
 
