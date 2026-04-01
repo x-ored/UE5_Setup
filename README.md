@@ -5,6 +5,11 @@ Follow these steps to clone and build Unreal Engine 5.6 from source.
 ## Prerequisites
 - A GitHub account linked to your Epic Games account (required to access the repository).
 - Visual Studio installed with Game Development with C++ workload.
+  
+  Please ensure your Visual Studio setup and packages are configured according to the images below:
+
+  ![Visual Studio Installer Configuration](vs_installer_cfg.png)
+  ![Visual Studio Packages](vs_pack.png)
 
 ## Instructions
 
