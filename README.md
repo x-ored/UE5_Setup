@@ -40,6 +40,11 @@ Follow these steps to clone and build Unreal Engine 5.6 from source.
 
 ## Troubleshooting
 
+### Magick.NET Error
+If you encounter a build error similar to the image below, you have to update the NuGet `Magick.NET` package.
+
+![Magick.NET Error](MagicError.PNG)
+
 ### Compilation Issues
 If you follow the steps above and the engine is still failing to compile, clear the Zen Engine Data cache by deleting or cleaning the contents of the following directory:
 ```
